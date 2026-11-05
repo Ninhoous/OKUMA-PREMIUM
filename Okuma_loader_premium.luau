@@ -1,6 +1,6 @@
 local CONFIG = {
     service = "OKUMA PREMIUM",
-    identifier = "112067",
+    identifier = "1226841",
     discord = "https://discord.gg/ErGASZ4zjD",
     keyFile = "Okuma/premium_key.txt",
     price = "R$ 6,99",
